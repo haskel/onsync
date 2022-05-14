@@ -1,0 +1,13 @@
+
+- load config
+  - config provider
+  - config inheritance
+- calculate changes before sync
+- tests
+- modules
+- system requirements
+  - libraries
+  - rsync
+  - scp
+  - permissions to folders
+- arguments
